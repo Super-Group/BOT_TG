@@ -226,25 +226,23 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {153545455,0,tonumber(our_id)},--Sudo users
+    sudo_users = {183429498},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[CeWeR v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
+    about_text = [[Work on SuperGroups - Open Source
 
-https://github.com/CeWeR/CeWeR-SP
+Sudo : MehDi OKTAY 
+
+https://github.com/Super-Group/BOT_TG
 
 Admins
-@CeWeR [Founder]
-@Mehdi_Oktay [Developer]
-@jacki_pendelton [Developer]
-@CeWeR_TFB [Manager]
+@MehDi_Fateme [Developer]
 
 Special thanks to
-CeWeR
+CeWeR OKTAY
 
 Our channels
-@CeWeR_Team ]],
+@HacKDifferent ]],
     help_text_realm = [[
 Realm Commands:
 
